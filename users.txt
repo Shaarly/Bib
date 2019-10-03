@@ -1,0 +1,4 @@
+ola:ola
+aja:aja
+rubin:rubin
+krasnal:krasnal
